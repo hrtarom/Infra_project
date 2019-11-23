@@ -13,3 +13,7 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
     --project big-data-infrastructure-pro
 
 ![running jupyter notebook on a cluster](images/shell_commad_cluster.jpg)
+
+### 3. Now we can have access to jupyter notebook to write our code
+
+![jupyter note book in cluster webservices](images/jupyter.jpg)
