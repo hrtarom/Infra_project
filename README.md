@@ -50,3 +50,28 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 
 * we can also plot this information
 ![month plot](images/plot.jpg)
+
+* after extracting all the month information now we can have all infrmation in one table
+
+![all months](images/total.jpg)
+
+* now we can do the final cleaning 
+![](images/final.jpg)
+
+* we can save the resulting table in Google cloud bucket that we made for our project and below we can see its partitions
+
+![saved on bucket](images/file_saved_bucket_partitions.jpg)
+
+* also on hdfs
+
+![hdfs](images/hdfs.jpg)
+
+* after the data is ready we can run the ARIMA time series prediction
+![](images/arimacode.jpg)
+
+* the result
+
+![](images/arimare.jpg)
+
+* arima output plots
+![plots](iamges/arimaplot.jpg)
