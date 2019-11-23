@@ -34,3 +34,7 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 ![rides per station](images/agg.jpg)
 
 ![station geo and number of rides joined](images/stjoin.jpg)
+
+* we can decide which rides happened dring the same day and how many were more than one day
+![same day code](images/samecode.jpg)
+![same day result](images/sameday.jpg)
