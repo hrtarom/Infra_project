@@ -1,2 +1,4 @@
 # Infra_project
-the final project for big data infrastructure course
+=================
+The final project for big data infrastructure course by Hamid Reza Taremian
+
