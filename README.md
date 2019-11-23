@@ -74,4 +74,5 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 ![result](images/arimares.jpg)
 
 * arima output plots
+
 ![plots](images/arimaplot.jpg)
