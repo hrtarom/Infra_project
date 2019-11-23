@@ -1,4 +1,4 @@
-# Infra_project
+# Monthly prediction for Bixi rides in Montreal
 The final project for big data infrastructure course by **Hamid Reza Taremian**
 
 # Setting up google cloud platform
