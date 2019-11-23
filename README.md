@@ -23,3 +23,8 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 * our data consists of one CSV file for the information related to the each station and CSV files for monthly rides. so first we upload our files into the bucket that we made before.
 
 ![bucket with CSV files](images/file_saved_uploaded_bucket.jpg)
+
+* we can read the data for stations and each month separately.
+![station data ](images/stations.jpg)
+
+![october 2019 information](images/oct.jpg)
