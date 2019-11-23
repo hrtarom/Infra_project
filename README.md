@@ -49,4 +49,4 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 ![code for information extraction](images/monthstat.jpg)
 
 * we can also plot this information
-![month plot](images/plot)
+![month plot](images/plot.jpg)
