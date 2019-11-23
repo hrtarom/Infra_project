@@ -20,3 +20,7 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 
 
 # The python+spark code
+#### our data consists of one CSV file for the information related to the each station and CSV files for monthly rides.
+#### so first we upload our files into the bucket that we made before.
+
+![bucket with CSV files] (images/files_saved_uploaded_bucket.jpg)
