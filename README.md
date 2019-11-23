@@ -31,6 +31,6 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 
 ## Some Analysis
 * we can see howmany rides were done from each station and link the station geogrphical information for furthure usage
-![rides per station](agg.jpg)
+![rides per station](images/agg.jpg)
 
 ![station geo and number of rides joined](images/stjoin.jpg)
