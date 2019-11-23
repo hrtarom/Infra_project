@@ -40,9 +40,9 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 ![same day result](images/sameday.jpg)
 ### predictions
 * The data at hand is  time related so we have to run time sereies predictions on it.The step will be as follows:
-...1. extract the average time per ride and total number of rides per month for each station
-...2. put all these together to have the information for year 2019
-...3. run time series prediction 
+   1. extract the average time per ride and total number of rides per month for each station
+   2. put all these together to have the information for year 2019
+   3. run time series prediction 
 
 * we can extract the avergae time and number of rides per station using the code below:
 
