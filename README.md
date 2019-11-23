@@ -12,4 +12,4 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
     --bucket infra_project \
     --project big-data-infrastructure-pro
 
-![running jupyter notebook on a cluster](images/shell_command_clustre.jpg)
+![running jupyter notebook on a cluster](images/shell_command_cluster.jpg)
