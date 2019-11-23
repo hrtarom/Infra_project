@@ -35,11 +35,11 @@ The final project for big data infrastructure course by **Hamid Reza Taremian**
 
 ![station geo and number of rides joined](images/stjoin.jpg)
 
-* we can decide which rides happened dring the same day and how many were more than one day
+* we can decide which rides happened during the same day and how many were more than one day
 ![same day code](images/samecode.jpg)
 ![same day result](images/sameday.jpg)
 ### predictions
-* The data at hand is  time related so we have to run time sereies predictions on it.The step will be as follows:
+* The data at hand is  time related so we have to run time series predictions on it.The step will be as follows:
    1. extract the average time per ride and total number of rides per month for each station
    2. put all these together to have the information for year 2019
    3. run time series prediction 
